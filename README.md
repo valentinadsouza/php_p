@@ -1,7 +1,7 @@
 # php_p
--frontend : Bootstrap
--backend : MySQL
--middleware : PHP
+- frontend : Bootstrap
+- backend : MySQL
+- middleware : PHP
 
 register
 ![Register](image.png)
